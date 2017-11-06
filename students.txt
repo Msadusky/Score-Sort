@@ -1,0 +1,12 @@
+Mary	 Price	100
+Stephanie	 Watson	67
+Rachel	 Rivera	 30
+Raymond	 Powell	 58
+Catherine	 Ward	89
+Doris	 Howard	 70
+Cynthia	 Jenkins 31
+Betty	 Torres	 75
+Juan	 Cox	 95
+Kathleen	 Anderson 86
+Mark	 Russell  78
+Gerald	 Edwards  97
